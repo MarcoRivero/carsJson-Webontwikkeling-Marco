@@ -1,6 +1,5 @@
 [
   {
-    "specifications": {
       "id": "car-101",
       "color": "Grey",
       "transmission": "Automatic",
@@ -9,10 +8,8 @@
         "engineCapacity": 1600,
         "power": 120
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-102",
       "color": "Red",
       "transmission": "Electric",
@@ -21,10 +18,8 @@
         "power": 500,
         "torque": 800
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-103",
       "color": "Grey",
       "transmission": "Manual",
@@ -33,10 +28,8 @@
         "engineCapacity": 2000,
         "power": 150
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-104",
       "color": "Red",
       "transmission": "CVT",
@@ -45,10 +38,8 @@
         "engineCapacity": 1800,
         "power": 140
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-105",
       "color": "Yellow",
       "transmission": "Manual",
@@ -57,10 +48,8 @@
         "engineCapacity": 5000,
         "power": 450
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-106",
       "color": "Grey",
       "transmission": "Automatic",
@@ -69,10 +58,8 @@
         "engineCapacity": 2000,
         "power": 150
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-107",
       "color": "Silver",
       "transmission": "Automatic",
@@ -81,10 +68,8 @@
         "engineCapacity": 2000,
         "power": 190
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-108",
       "color": "White",
       "transmission": "Automatic",
@@ -93,10 +78,8 @@
         "engineCapacity": 2500,
         "power": 200
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-109",
       "color": "Yellow",
       "transmission": "Automatic",
@@ -105,10 +88,8 @@
         "engineCapacity": 3000,
         "power": 350
       }
-    }
   },
   {
-    "specifications": {
       "id": "car-110",
       "color": "Silver",
       "transmission": "Automatic",
@@ -117,6 +98,5 @@
         "engineCapacity": 3000,
         "power": 250
       }
-    }
   }
 ]
