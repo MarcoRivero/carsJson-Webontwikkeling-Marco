@@ -1,0 +1,252 @@
+[
+   {
+     "id": "car-1",
+     "name": "Toyota Corolla",
+     "description": "A reliable and popular sedan from Toyota.",
+     "age": 2,
+     "active": true,
+     "productionDate": "2022-01-01",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/toyotacorolla.jpeg",
+     "status": "New",
+     "interests": [
+       "Driving",
+       "Traveling"
+     ],
+     "specifications": {
+       "id": "car-101",
+       "color": "Grey",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 1600,
+         "power": 120
+       },
+       "price": 25000
+     }
+   },
+   {
+     "id": "car-2",
+     "name": "Tesla Model S",
+     "description": "A luxurious and powerful electric sedan from Tesla.",
+     "age": 1,
+     "active": true,
+     "productionDate": "2023-02-15",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/teslaModelS.jpeg",
+     "status": "New",
+     "interests": [
+       "Technology",
+       "Environmental Awareness"
+     ],
+     "specifications": {
+       "id": "car-102",
+       "color": "Red",
+       "transmission": "Electric",
+       "engine": {
+         "type": "Electric",
+         "power": 500,
+         "torque": 800
+       },
+       "price": 80000
+     }
+   },
+   {
+     "id": "car-3",
+     "name": "BMW 3-series",
+     "description": "A sporty and elegant sedan from BMW.",
+     "age": 3,
+     "active": false,
+     "productionDate": "2021-05-20",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/bmw3Series.jpeg",
+     "status": "Used",
+     "interests": [
+       "Speed",
+       "Luxury"
+     ],
+     "specifications": {
+       "id": "car-103",
+       "color": "Grey",
+       "transmission": "Manual",
+       "engine": {
+         "type": "Diesel",
+         "engineCapacity": 2000,
+         "power": 150
+       },
+       "price": 30000
+     }
+   },
+   {
+     "id": "car-4",
+     "name": "Honda Civic",
+     "description": "A reliable and compact sedan from Honda.",
+     "age": 4,
+     "active": true,
+     "productionDate": "2020-08-10",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/bmw3Series.jpeg",
+     "status": "Used",
+     "interests": [
+       "Efficiency",
+       "Reliability"
+     ],
+     "specifications": {
+       "id": "car-104",
+       "color": "Red",
+       "transmission": "CVT",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 1800,
+         "power": 140
+       },
+       "price": 20000
+     }
+   },
+   {
+     "id": "car-5",
+     "name": "Ford Mustang",
+     "description": "An iconic and powerful muscle car from Ford.",
+     "age": 5,
+     "active": true,
+     "productionDate": "2019-04-05",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/forMustang.jpeg",
+     "status": "Used",
+     "interests": [
+       "Speed",
+       "Retro Style"
+     ],
+     "specifications": {
+       "id": "car-105",
+       "color": "Yellow",
+       "transmission": "Manual",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 5000,
+         "power": 450
+       },
+       "price": 35000
+     }
+   },
+   {
+     "id": "car-6",
+     "name": "Volkswagen Golf",
+     "description": "A popular and versatile hatchback from Volkswagen.",
+     "age": 2,
+     "active": true,
+     "productionDate": "2022-10-12",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/volksWagenGolf.jpeg",
+     "status": "New",
+     "interests": [
+       "City Driving",
+       "Practicality"
+     ],
+     "specifications": {
+       "id": "car-106",
+       "color": "Grey",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Diesel",
+         "engineCapacity": 2000,
+         "power": 150
+       },
+       "price": 28000
+     }
+   },
+   {
+     "id": "car-7",
+     "name": "Audi A4",
+     "description": "A luxurious and comfortable sedan from Audi.",
+     "age": 3,
+     "active": true,
+     "productionDate": "2021-07-25",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/audiA4.jpeg",
+     "status": "Used",
+     "interests": [
+       "Comfort",
+       "Prestige"
+     ],
+     "specifications": {
+       "id": "car-107",
+       "color": "Silver",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 2000,
+         "power": 190
+       },
+       "price": 32000
+     }
+   },
+   {
+     "id": "car-8",
+     "name": "Mercedes-Benz C-Class",
+     "description": "An elegant and luxurious sedan from Mercedes-Benz.",
+     "age": 1,
+     "active": true,
+     "productionDate": "2023-03-20",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/mercedesCClass.jpeg",
+     "status": "New",
+     "interests": [
+       "Luxury",
+       "Comfort"
+     ],
+     "specifications": {
+       "id": "car-108",
+       "color": "White",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 2500,
+         "power": 200
+       },
+       "price": 45000
+     }
+   },
+   {
+     "id": "car-9",
+     "name": "Porsche 911",
+     "description": "An iconic sports car from Porsche.",
+     "age": 2,
+     "active": true,
+     "productionDate": "2022-06-12",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/porsche911.jpeg",
+     "status": "Used",
+     "interests": [
+       "Speed",
+       "Prestige"
+     ],
+     "specifications": {
+       "id": "car-109",
+       "color": "Yellow",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Petrol",
+         "engineCapacity": 3000,
+         "power": 350
+       },
+       "price": 120000
+     }
+   },
+   {
+     "id": "car-10",
+     "name": "Audi Q7",
+     "description": "A luxurious and spacious SUV from Audi.",
+     "age": 2,
+     "active": true,
+     "productionDate": "2022-11-28",
+     "image": "https://github.com/MarcoRivero/carsJson-WebOntwikkeling/blob/main/audiQ7.jpeg",
+     "status": "New",
+     "interests": [
+       "Comfort",
+       "Family"
+     ],
+     "specifications": {
+       "id": "car-110",
+       "color": "Silver",
+       "transmission": "Automatic",
+       "engine": {
+         "type": "Diesel",
+         "engineCapacity": 3000,
+         "power": 250
+       },
+       "price": 60000
+     }
+   }
+ ]
